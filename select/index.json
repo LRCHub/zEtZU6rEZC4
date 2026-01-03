@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Get Higher",
+  "base_artist": "Creepy Nuts",
+  "createdAt": "2026-01-03T08:24:27.754801Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Get Higher",
+      "artist": "Juicy J",
+      "has_synced": false,
+      "path": "select/01_Get_Higher_Juicy_J.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Come On Get Higher",
+      "artist": "Matt Nathanson",
+      "has_synced": true,
+      "path": "select/02_Come_On_Get_Higher_Matt_Nathanson.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Baby Get Higher",
+      "artist": "VanVelzen",
+      "has_synced": false,
+      "path": "select/03_Baby_Get_Higher_VanVelzen.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Come on Get Higher",
+      "artist": "Matt Nathanson",
+      "has_synced": true,
+      "path": "select/04_Come_on_Get_Higher_Matt_Nathanson.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Baby Get Higher",
+      "artist": "Van Velzen",
+      "has_synced": false,
+      "path": "select/05_Baby_Get_Higher_Van_Velzen.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Get Higher",
+      "artist": "Paper Tongues",
+      "has_synced": false,
+      "path": "select/06_Get_Higher_Paper_Tongues.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Get Higher",
+      "artist": "Palaye Royale",
+      "has_synced": false,
+      "path": "select/07_Get_Higher_Palaye_Royale.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Come on Get Higher",
+      "artist": "Boyce Avenue",
+      "has_synced": true,
+      "path": "select/08_Come_on_Get_Higher_Boyce_Avenue.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Get Higher",
+      "artist": "Black Grape",
+      "has_synced": false,
+      "path": "select/09_Get_Higher_Black_Grape.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Get Higher",
+      "artist": "Palaye Royale",
+      "has_synced": true,
+      "path": "select/10_Get_Higher_Palaye_Royale.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Get Higher (Bonus Track)",
+      "artist": "Palaye Royale",
+      "has_synced": true,
+      "path": "select/11_Get_Higher_(Bonus_Track)_Palaye_Royale.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Get Higher [Prod. By Lex Luger & Young Ced]",
+      "artist": "Juicy J",
+      "has_synced": true,
+      "path": "select/12_Get_Higher_[Prod._By_Lex_Luger_&_Young_Ced]_Juicy_J.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Baby Get Higher",
+      "artist": "VanVelzen",
+      "has_synced": false,
+      "path": "select/13_Baby_Get_Higher_VanVelzen.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Come On Get Higher - Live",
+      "artist": "Sugarland",
+      "has_synced": false,
+      "path": "select/14_Come_On_Get_Higher_-_Live_Sugarland.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Come On Get Higher (Live)",
+      "artist": "Sugarland",
+      "has_synced": false,
+      "path": "select/15_Come_On_Get_Higher_(Live)_Sugarland.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Get Higher",
+      "artist": "CreepyNuts",
+      "has_synced": false,
+      "path": "select/pl_01_Get_Higher_CreepyNuts.txt"
+    }
+  ]
+}
